@@ -1,0 +1,8 @@
+const os = require('os');
+
+/* Modulo de OS */
+
+console.log(os.type())
+console.log(os.homedir())
+console.log(os.uptime())
+console.log(os.userInfo())
